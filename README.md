@@ -1,6 +1,6 @@
 # 🎴 Pokémon Cards App
 
-![Preview Screenshot](./img/pokemon_logo 1.svg)
+![Preview Screenshot](/img/pokemon_logo 1.svg)
 
 > *“Gotta catch 'em all... lekin avval npm install qilasan 😅”*
 
