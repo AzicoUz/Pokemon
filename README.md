@@ -1,6 +1,6 @@
 # 🎴 Pokémon Cards App
 
-![Preview Screenshot](./screenshot.png)
+![Preview Screenshot](./img/pokemon_logo 1.svg)
 
 > *“Gotta catch 'em all... lekin avval npm install qilasan 😅”*
 
@@ -32,7 +32,7 @@ Shunchaki Pokémon olamidan zavq olish uchun yaratilgan web-app.
 ## 🚀 Qanday ishga tushirish kerak?
 `bash
 # Clone qiling
-git clone https://github.com/username/pokemon-cards-app.git
+git clone https://github.com/AzicoUz/Pokemon.git
 
 # Papkaga kiring
 cd pokemon-cards-app
